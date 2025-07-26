@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+ul {
+    background-color: rgb(152, 199, 150);
+    padding: 20px;
+}
+li {
+    font-size: 1.5rem;
+    font-family: monospace;
+    background-color: white;
+    margin: 20px;
+    padding: 10px;
+}

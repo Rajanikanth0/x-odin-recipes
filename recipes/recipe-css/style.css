@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    padding: 10px;
+}
+
+h3 {
+    background-color: rgb(216, 152, 92);
+    padding: 10px;
+}
+
+img {
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+}
